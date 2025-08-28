@@ -1,0 +1,8 @@
+body { 
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; 
+  margin: 16px; 
+}
+
+small { 
+  color: #555; 
+}
